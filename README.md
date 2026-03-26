@@ -76,7 +76,7 @@ return 0;
 ```
 
 ## OUTPUT:
-<img width="553" height="184" alt="image" src="https://github.com/user-attachments/assets/d4c56b15-2a01-4917-af30-c14eae5d88fe" />
+<img width="1898" height="979" alt="image" src="https://github.com/user-attachments/assets/ea43dd78-b89c-4fab-969b-7c24d8269bfd" />
 
 ## RESULT:
 The program to implement a symbol table is executed and the output is verified.
